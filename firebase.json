@@ -1,0 +1,9 @@
+{
+  "firebase": "radiant-heat-1609",
+  "public": "build",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
